@@ -1,2 +1,2 @@
-x = "Hello World!"
+x = "Hello CI/CD Pipeline!"
 print(x)
